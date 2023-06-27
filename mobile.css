@@ -6,7 +6,10 @@
 
 
 
-
+body{
+    background:url("/pexels-anna-nekrashevich-6802049.jpg") center  ;
+    background-size: cover;
+}
  .company{
     display: none;
  }
