@@ -61,7 +61,7 @@ a{
 }
 .secondp2{
     font-size: 30px;
-    color: rgb(244, 242, 242);
+    color: rgb(63, 63, 63);
 }
 .button1{
     width: 100px;
@@ -483,7 +483,7 @@ td{
     margin-left: 5%;
     width: 80%;
     height: 30px;
-    border: 1px solid grey;
+    border:0px;
     border-radius: 20px;
     
 }

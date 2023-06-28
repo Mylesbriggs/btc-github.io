@@ -34,21 +34,21 @@ body{
     margin-top: 20%;
 }
 .button3{
-    width: 82%;
+    width: 94%;
     margin-left: 5px;
     margin-top: 2%;
     margin: auto;
 }
 .input1{
-    width: 80%;
+    width: 90%;
     margin-left: 5px;
     margin: auto;
 
 }
 .trading{
     background-color: snow;
-    width: 350px;
-    height: 380px;
+    width: 400px;
+    height: 400px;
     margin: auto;
     float: right;
     border: solid 10px rgba(94, 103, 115, 0.411);
@@ -102,10 +102,93 @@ body{
     width: 100%;
     margin: auto;
 }
-
+.finaldiv{
+    background-color: snow;
+    width: 300px;
+    height: 300px;
+    border-radius: 20px;
+    
+    display: inline-block;
+}
 .finaldiv2{
-    margin-left: 20%;
+    /* margin-left: 20%; */
     margin-top: 5%;
+    
+}
+.secondp2{
+    font-size: 30px;
+    color: rgb(240, 238, 238);
+}
+.stockimg{
+    width: 200px;
+    margin-top: 20px;
+    margin-left: 50px;
+}
+.ll{
+    /* display: inline-block; */
+    margin-top: 0px;
+    color: rgb(161, 161, 161);
+    font-size: 12px;
+}
+.red{
+    color: red;
+    float: right;
+    margin-right: 20px;
+}
+.button7{
+    width: 200px;
+    height: 40px;
+    background-color: rgb(255, 162, 0) ;
+    border: 0;
+    border-radius: 5px;
+    transition-duration:.6s ;
+    font-size: 16px;
+    color: snow;
+    margin-left: 50px;
+    margin-top: 20px;
+    
+    
+}
+.button8{
+    width: 200px;
+    height: 40px;
+    background-color: rgb(77, 67, 107) ;
+    border: 0;
+    border-radius: 5px;
+    transition-duration:.6s ;
+    font-size: 16px;
+    color: snow;
+    margin-left: 50px;
+    margin-top: 20px;
+    
+    
+}
+.button9{
+    width: 200px;
+    height: 40px;
+    background-color:rgb(131, 130, 133)  ;
+    border: 0;
+    border-radius: 5px;
+    transition-duration:.6s ;
+    font-size: 16px;
+    color: snow;
+    margin-left: 50px;
+    margin-top: 20px;
+    
+    
+}
+.button10{
+    width: 200px;
+    height: 40px;
+    background-color:rgb(33, 132, 42) ;
+    border: 0;
+    border-radius: 5px;
+    transition-duration:.6s ;
+    font-size: 16px;
+    color: snow;
+    margin-left: 50px;
+    margin-top: 20px;
+    
     
 }
 
